@@ -1,6 +1,5 @@
----
 # 🧠 First, Understand: What is the Security Context?
-
+---
 SecurityContext is a thread-local store in Spring Security that holds the details about the currently authenticated user.
 
 When you set the Authentication object inside SecurityContext, you're telling Spring Security:
