@@ -11,7 +11,7 @@ Because Spring uses SecurityContext to:
 
 Check if the user is authenticated.
 
-Evaluate annotations like @PreAuthorize("hasRole('ADMIN')").
+Evaluate annotations like PreAuthorize("hasRole('ADMIN')").
 
 Perform access decisions during request processing.
 
